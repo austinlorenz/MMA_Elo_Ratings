@@ -3,11 +3,7 @@ import ssl
 import re
 import math
 from elograph import *
-#from fight_dictionary import fight_dict
 from elo import *
-#from victory_method import *
-#rom card import *
-from bet_functions import *
 import numpy
 import os.path
 
