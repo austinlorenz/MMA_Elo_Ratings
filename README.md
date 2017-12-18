@@ -2,7 +2,7 @@
 Calculate Elo ratings of MMA fighters
 
 To use, load database.py with 
-		python i database.py
+		python -i database.py
 
 To calculate the Elo rating of a fighter, get the link to the fighter's tapology page (e.g., https://www.tapology.com/fightcenter/fighters/nate-diaz), and use the 'calc' function.
 
