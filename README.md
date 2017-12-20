@@ -61,4 +61,4 @@ Once you have two fighters' Elo ratings, you can compute the probability of one 
 		>>> expected_score(2000,1800)
 		0.7597469266479578
 		
-This means that the probability that a fighter with a rating of 2000 defeats a fighter with a rating of 1800 is about .75.
+This means that the probability that a fighter with a rating of 2000 defeats a fighter with a rating of 1800 is about .76.
