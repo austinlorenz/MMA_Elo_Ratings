@@ -55,3 +55,8 @@ Example:
 		2192 *********************************************************************************************************************************************************************
 
 		2192.849167000691
+
+Once you have two fighters' Elo ratings, you can compute the probability of one fighter defeating the other with the expected_score function.
+
+		>>> expected_score(2000,1800)
+		0.7597469266479578
