@@ -1,4 +1,4 @@
-# MMA_Elo_Ratings
+# MMA_Elo_Ratings (OBSOLETE, tapology changed their layout)
 Calculate Elo ratings of MMA fighters
 
 To use, load database.py with 
